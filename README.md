@@ -15,3 +15,6 @@ Use Wireshark to analyze and find malicious traffic on the wire.
 Create a team presentation with the assessment, analysis and hardening of the vulnerable system.
 
 [Red Team - Summary of Operations.pdf](https://github.com/cybergurl95/Final-Project-/files/8636940/Red.Team.-.Summary.of.Operations.pdf)
+
+[Blue Team - Summary of Operations (2).pdf](https://github.com/cybergurl95/Final-Project-/files/8643626/Blue.Team.-.Summary.of.Operations.2.pdf)
+
