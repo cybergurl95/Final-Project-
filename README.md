@@ -20,3 +20,4 @@ Create a team presentation with the assessment, analysis and hardening of the vu
 
 [Network Report Template (Wireshark).pdf](https://github.com/cybergurl95/Final-Project-/files/8644487/Network.Report.Template.Wireshark.pdf)
 
+[Defensive Final Project Presentation.pdf](https://github.com/cybergurl95/Final-Project-/files/8644669/Defensive.Final.Project.Presentation.pdf)
