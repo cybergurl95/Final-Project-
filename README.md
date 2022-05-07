@@ -12,7 +12,9 @@ Find vulnerabilities / exploits to gain access to a vulnerable WordPress site / 
 
 Use Wireshark to analyze and find malicious traffic on the wire.
 
-Create a team presentation with the assessment, analysis and hardening of the vulnerable system.
+Create a team presentation with the assessment, analysis and hardening of the vulnerable system. 
+
+Below are the links for the Red Team, Blue Team, WireShark, WordPress and Apache Yml File, and the Final Project PowerPoint Presentation for Rice University
 
 [Red Team - Summary of Operations.pdf](https://github.com/cybergurl95/Final-Project-/files/8636940/Red.Team.-.Summary.of.Operations.pdf)
 
@@ -21,3 +23,5 @@ Create a team presentation with the assessment, analysis and hardening of the vu
 [Network Report Template (Wireshark).pdf](https://github.com/cybergurl95/Final-Project-/files/8644487/Network.Report.Template.Wireshark.pdf)
 
 [Defensive Final Project Presentation.pdf](https://github.com/cybergurl95/Final-Project-/files/8644669/Defensive.Final.Project.Presentation.pdf)
+
+https://github.com/cybergurl95/Final-Project-/blob/main/WPandApache.yml
